@@ -124,6 +124,8 @@
 }
 .shape {
 }
+.line1 {
+}
 ._60号字_如金额展示、金额输入） {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -208,6 +210,13 @@
   font-weight:700;
   font-style:normal;
   font-size:32px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
   text-align:left;
 }
 .box_11 {
