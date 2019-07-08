@@ -2448,7 +2448,7 @@
   left:0px;
   top:0px;
   width:681px;
-  height:551px;
+  height:506px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -2466,7 +2466,7 @@
   left:711px;
   top:188px;
   width:681px;
-  height:551px;
+  height:506px;
   display:flex;
 }
 #u2103 .text {
@@ -2543,8 +2543,8 @@
 #u2105 {
   border-width:0px;
   position:absolute;
-  left:767px;
-  top:358px;
+  left:761px;
+  top:306px;
   width:97px;
   height:18px;
   display:flex;
@@ -2611,8 +2611,8 @@
 #u2107 {
   border-width:0px;
   position:absolute;
-  left:767px;
-  top:421px;
+  left:761px;
+  top:369px;
   width:97px;
   height:18px;
   display:flex;
@@ -2657,7 +2657,7 @@
   border-width:0px;
   position:absolute;
   left:1219px;
-  top:662px;
+  top:602px;
   width:140px;
   height:40px;
   display:flex;
@@ -2696,7 +2696,7 @@
   border-width:0px;
   position:absolute;
   left:1051px;
-  top:662px;
+  top:602px;
   width:140px;
   height:40px;
   display:flex;
@@ -2774,8 +2774,8 @@
 #u2111 {
   border-width:0px;
   position:absolute;
-  left:854px;
-  top:413px;
+  left:848px;
+  top:361px;
   width:234px;
   height:34px;
   display:flex;
@@ -2868,8 +2868,8 @@
 #u2112 {
   border-width:0px;
   position:absolute;
-  left:854px;
-  top:350px;
+  left:848px;
+  top:298px;
   width:234px;
   height:34px;
   display:flex;
@@ -2900,142 +2900,4 @@
   box-shadow:none;
 }
 #u2112.disabled {
-}
-#u2113_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:80px;
-  height:18px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:16px;
-}
-#u2113 {
-  border-width:0px;
-  position:absolute;
-  left:767px;
-  top:302px;
-  width:80px;
-  height:18px;
-  display:flex;
-  font-size:16px;
-}
-#u2113 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u2113_text {
-  border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
-}
-#u2114_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:234px;
-  height:34px;
-  padding:3px 2px 3px 2px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:16px;
-  text-decoration:none;
-  letter-spacing:normal;
-  color:#000000;
-  vertical-align:none;
-  text-align:left;
-  text-transform:none;
-  background-color:transparent;
-  border-color:transparent;
-}
-#u2114_input.disabled {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:234px;
-  height:34px;
-  padding:3px 2px 3px 2px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:16px;
-  text-decoration:none;
-  letter-spacing:normal;
-  color:#000000;
-  vertical-align:none;
-  text-align:left;
-  text-transform:none;
-  background-color:transparent;
-  border-color:transparent;
-}
-#u2114_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:234px;
-  height:34px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:16px;
-}
-#u2114 {
-  border-width:0px;
-  position:absolute;
-  left:854px;
-  top:291px;
-  width:234px;
-  height:34px;
-  display:flex;
-  font-size:16px;
-}
-#u2114 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u2114_div.disabled {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:234px;
-  height:34px;
-  background:inherit;
-  background-color:rgba(240, 240, 240, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(170, 170, 170, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:16px;
-}
-#u2114.disabled {
-}
-.u2114_input_option {
-  font-size:16px;
 }
