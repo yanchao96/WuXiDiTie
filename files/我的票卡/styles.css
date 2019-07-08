@@ -2208,3 +2208,43 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u406_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:86px;
+  height:34px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+  color:rgba(0, 0, 255, 0.729411764705882);
+}
+#u406 {
+  border-width:0px;
+  position:absolute;
+  left:1526px;
+  top:631px;
+  width:86px;
+  height:34px;
+  display:flex;
+  font-size:18px;
+  color:rgba(0, 0, 255, 0.729411764705882);
+}
+#u406 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u406_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
