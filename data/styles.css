@@ -236,4 +236,16 @@
 ._图片1 {
   color:#000000;
 }
+._形状1 {
+}
+._文本段落1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
